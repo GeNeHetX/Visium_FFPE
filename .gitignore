@@ -1,3 +1,13 @@
+# Data
+data
+data_external
+data_hdd
+qp-projects
+
+# Tables
+*.csv
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

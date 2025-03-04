@@ -1,4 +1,4 @@
-scanpy
+scanpy[leiden]
 openslide-python
 openslide-bin
 pandas
@@ -10,5 +10,3 @@ imagecodecs
 jupyter
 ipywidgets
 kneed
-igraph
-leidenalg

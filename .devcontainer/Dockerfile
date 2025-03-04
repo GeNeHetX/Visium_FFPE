@@ -1,4 +1,4 @@
-FROM python:3.13.1-bookworm
+FROM python:3.12.9-bookworm
 
 # Install basic utilities
 RUN apt-get update
